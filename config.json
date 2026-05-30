@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerparse",
+        "uuid": 625292,
+        "checksum": "vn6x2"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
